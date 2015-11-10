@@ -1,0 +1,7 @@
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^kiron.ventures$ [NC]
+RewriteCond %{SERVER_PORT} ^80$
+RewriteRule ^(.*)$ http://www.kiron.ventures/$1 [R=301,L]
+
+RewriteRule ^/?$ index.php [NC]

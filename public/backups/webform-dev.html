@@ -1,0 +1,65 @@
+<link href="http://kironventures.com/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all" />
+<link href="http://kironventures.com/css/theme.min.css" rel="stylesheet" type="text/css" media="all" />
+
+<style>
+input[type="file"] {
+height: 25px;
+line-height: 25px;
+border: 2px solid #47b475;
+background: #47b475;
+color: #fff;
+width: 100%;
+font-size: 11px;
+text-transform: uppercase;
+font-weight: bold;
+letter-spacing: 1px;
+border-radius: 0 !important;
+}
+</style>
+
+<div class="main-container">
+
+    <section class="cover fullscreen image-slider slider-arrow-controls controls-inside parallax">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-2 text-center col-sm-offset-5">
+                    <img class="img-responsive"  src="http://kironventures.com/img/kironventureslogo3.png" style="margin-top:30px" width="446px" height="112px">
+                </div>
+            </div>
+        </div>
+
+        <div class="container-clearfix">
+            <div class="row">
+
+
+                <div class="col-sm-6 text-center col-sm-offset-3" style="margin-top:50px">
+
+                    Upload your presentation as a .pdf or .pptx to supplement your application to Kiron Ventures here
+
+
+                    <form id="myForm" style="margin-top:50px">
+
+                        <input type="text" name="myName" placeholder="Your name..">
+                        <input type="file" name="myFile">
+                        <input type="submit" value="Upload File"
+                               onclick="this.value='Uploading..';
+                    google.script.run.withSuccessHandler(fileUploaded)
+                    .uploadFiles(this.parentNode);
+                    return false;">
+                    </form>
+
+                    <div id="output"></div>
+
+                    <script>
+                        function fileUploaded(status) {
+                            document.getElementById('myForm').style.display = 'none';
+                            document.getElementById('output').innerHTML = status;
+                        }
+                    </script>
+
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+

@@ -1,0 +1,68 @@
+
+<!doctype html>
+<html lang="en">
+    <head>
+        <?php $docpath = $_SERVER['DOCUMENT_ROOT'];?>
+        <?php include_once($docpath . "/php/head.php"); ?>
+        <title>Kiron Ventures | Home </title>
+        <?php include_once("php/googleanalytics.php") ?>
+
+    </head>
+    <body>
+				
+		<div class="nav-container">
+		</div>
+		
+		<div class="main-container">
+		<section class="page-title page-title-1 bg-secondary bg-dark">
+
+
+			<section class="image-bg overlay parallax pt180 pb180 pt-xs-80 pb-xs-80">
+				<div class="background-image-holder">
+					<img alt="image" class="background-image" src="img/home22.jpg">
+				</div>
+
+				<div class="container">
+					<div class="row">
+						<div class="col-md-10 col-sm-10 col-sm-offset-1 col-md-offset-1 text-center">
+							<h2 class="uppercase">Kiron Ventures. Coming Soon. </h2>
+						</div>
+					</div>
+
+				</div>
+
+			</section>
+
+		    </section><section class="image-edge bg-secondary">
+		        <div class="col-md-6 col-sm-4 p0">
+		            <img alt="Screenshot" class="mb-xs-24" src="img/kironventureslogo2.png">
+		        </div>
+		        <div class="container">
+		            <div class="col-md-5 col-md-offset-1 col-sm-7 col-sm-offset-1 v-align-transform right">
+		                <h3 class="uppercase mb40 mb-xs-24" style="margin-top:50px">Launching Soon</h3>
+		                <div class="countdown mb40" data-date="2015/10/08"></div>
+
+		                </form>
+		            </div>
+		        </div>
+
+		    </section></div>
+		<footer class="footer-2 bg-dark text-center-xs">
+			<div class=container>
+				<div class=row>
+					<div class=col-sm-4>
+						<a href=#><div class=vnu><img class="image-xxs fade-half" alt=Pic src=img/kironventureslogo4.png></div></a>
+					</div>
+					<div class="col-sm-4 text-center">
+<span class=fade-half>
+© Copyright 2015 kiron ventures - All Rights Reserved &nbsp;contact us at contact@kironventures.com<br>
+</span>
+					</div>
+					</div>
+			</div>
+		</footer>
+        <script src=/js/head.load.min.js></script>
+        <script>head.load("/js/jquery.min.js","/js/bootstrap.min.js","js/countdown.min.js","/js/flexslider.min.js","/js/parallax.js","/js/scripts.min.js");</script>
+    </body>
+</html>
+				

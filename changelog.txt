@@ -1,0 +1,251 @@
+===================================================================
+v 1.7.4 - 16 September 2015
+-------------------------------------------------------------------
+NEW    - Flickr Album Feeds (see elements-galleries.html)
+NEW    - Icon bulleted lists (see elements-lists.html)
+UPDATE - Added caption able images (see elements-text-image.html)
+UPDATE - API Maps can now use coordinates in the address attribute
+         meaning more than 10 markers can now be placed on map.
+FIX    - Fixed HTML5 video slider in Variant
+
+
+Files affected:
+-------------------------------------------------------------------
+/js/scripts.js
+/css/theme.css
+/css/less/theme.less
+/elements-text-image.html
+/elements-galleries.html
+/elements-lists.html
+/variant/builder.html
+/docs/index.html
+===================================================================
+
+
+===================================================================
+v 1.7.3 - 3 September 2015
+-------------------------------------------------------------------
+NEW    - HTML5 Video sliders added to Variant
+FIX    - Fixed instagram feed sometimes showing wrong feed
+FIX    - Fixed search box zooming on iOS
+FIX    - Fixed offscreen nav position when zooming in Safari
+FIX    - Variant shortcuts. Now resize columns with ctrl+[ & ctrl+]
+
+
+Files affected:
+-------------------------------------------------------------------
+/js/scripts.js
+/css/theme.css
+/css/less/theme.less
+/variant/builder.html
+/variant/js/init.js
+===================================================================
+
+
+===================================================================
+v 1.7.2 - 12 August 2015
+-------------------------------------------------------------------
+NEW    - Video sliders (with smart auto play / pause)
+UPDATE - Optimised Youtube background loading
+UPDATE - Optimised fullscreen video background sizing
+
+Files affected:
+-------------------------------------------------------------------
+/js/scripts.js
+/css/theme.css
+/css/less/theme.less
+/elements-video-background.html
+/elements-video-slider.html
+
+===================================================================
+
+
+===================================================================
+v 1.7.1 - 9 August 2015
+-------------------------------------------------------------------
+FIX - Fixed horizontal scroll bar appearing on some Windows browsers
+
+===================================================================
+
+
+===================================================================
+v 1.7.0 - 3 August 2015
+-------------------------------------------------------------------
+NEW    - Added multiple icon packs and icon filtering to Variant
+NEW    - 3 new icon packs available in css and fonts folders
+FIX    - Made Google maps non-draggable on mobile screen sizes
+FIX    - Slim footer alignment on mobile screen sizes is resolved
+UPDATE - Added mail.php timezone option as some servers require it
+NEW    - Added “Product Single” section to Variant
+NEW    - Winery home page layout
+NEW    - Added a new Contact Page
+
+Files affected:
+-------------------------------------------------------------------
+/js/scripts.js
+/mail/mail.php
+/mail/lib/mail_sender.php
+/home-winery.html
+/page-contact-3.html
+/docs/index.html
+/css/theme.css
+/css/less/theme.less
+===================================================================
+
+
+===================================================================
+v 1.6.3 - 22 July 2015
+-------------------------------------------------------------------
+UPDATED - Updated Bootstrap to 3.3.5
+
+Files affected:
+-------------------------------------------------------------------
+/js/bootstrap.js
+/js/bootstrap.min.js
+/css/bootstrap.css
+/css/bootstrap.min.css
+
+===================================================================
+
+
+===================================================================
+v 1.6.2 - 18 July 2015
+-------------------------------------------------------------------
+FIX - Corrected notification appearing with no cookie set
+FIX - Fixed mobile toggle not working
+FIX - Modal buttons no longer scroll page to top
+
+Files affected:
+-------------------------------------------------------------------
+/js/scripts.js
+/css/theme.css
+/css/theme-*.css
+
+===================================================================
+
+
+===================================================================
+v 1.6.0 - 17 July 2015
+-------------------------------------------------------------------
+NEW - Added new modals and notifications (see elements-modals.html)
+NEW - Added a personal trainer / fitness home layout (see home-fitness.html)
+UPDATE - Mail sending script is now easier to read and customise
+UPDATE - Better handling of phone numbers in mail sending script
+FIX    - Offscreen menu scrolling in Safari
+
+Files affected:
+-------------------------------------------------------------------
+/css/less/*.less
+/css/theme.css
+/js/scripts.js
+/variant/builder.html
+/mail/mail.php
+ADDED home-fitness.html
+ADDED elements-modals.html
+ADDED - /mail/lib/mail_sender.php
+
+===================================================================
+
+
+===================================================================
+v 1.5.0 - 9 July 2015
+-------------------------------------------------------------------
+NEW - Added new product landing page (home-app-landing-2.html)
+NEW - Added new home layout: “Agency” (home-agency.html)
+NEW - Added new nav: “Offscreen menu”
+NEW - Added Google Maps API Support
+NEW - Added font option “Poppins” in Variant
+NEW - Added coming soon block to Variant
+FIX - Minor bug fixes
+
+Files affected:
+-------------------------------------------------------------------
+/css/less/*.less
+/css/theme.css
+/js/scripts.js
+/variant/builder.html
+home-app-landing-2.html
+home-agency.html
+
+===================================================================
+
+
+===================================================================
+v 1.4.0 - 25 June 2015
+-------------------------------------------------------------------
+NEW - Added Ken Burns slider effect (see home-photography-2.html)
+NEW - New Ken Burns Slider Variant block
+FIX - Instagram sometimes showing wrong feeds
+FIX - Saving custom options bug in Variant
+FIX - Only initialise Instagram if feed is present 
+
+
+Files affected:
+-------------------------------------------------------------------
+-    variant/builder.html
+-    variant/init.js
+-    js/scripts.js
+-    css/theme.css
+-    css/less/theme.less
+
+===================================================================
+
+
+===================================================================
+v 1.3.0 - 19 June 2015
+-------------------------------------------------------------------
+NEW - Added Disqus comments integration
+NEW - Added blog-single-disqus.html
+NEW - Added two new blog blocks to Variant
+
+
+Files affected:
+-------------------------------------------------------------------
+-    variant/builder.html
+-    variant/js/init.js
+-    js/scripts.js
+-    css/theme.css
+-    css/less/theme.less
+
+===================================================================
+
+
+===================================================================
+v 1.2.0 - 2 June 2015
+-------------------------------------------------------------------
+NEW - Added lightbox gallery to Variant
+FIX - Fixed icons not showing for some users
+FIX - Fixed elements not being clickable in event page
+
+
+Files affected:
+-------------------------------------------------------------------
+-    variant/builder.html
+-    variant/js/init.js
+-    css/themify-icons.css
+-    css/theme.css
+-    css/less/theme.less
+
+===================================================================
+
+
+===================================================================
+v 1.1.0 - 29 May 2015
+-------------------------------------------------------------------
+NEW - Added restaurant blocks to Variant
+
+
+Files affected:
+-------------------------------------------------------------------
+-    variant/builder.html
+
+===================================================================
+
+
+===================================================================
+v 1.0.1 - 28 May 2015
+-------------------------------------------------------------------
+
+Initial Release
+
+===================================================================
