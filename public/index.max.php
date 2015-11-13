@@ -21,23 +21,6 @@
 
 		<div class="main-container">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 		<section class="cover fullscreen image-slider slider-all-controls controls-inside parallax">
 		        <ul class="slides">
 		            <li class="overlay image-bg">
