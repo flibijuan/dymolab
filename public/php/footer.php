@@ -2,11 +2,11 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-3">
-	            <a href="#"><div class="vnu"><img class="image-xxs fade-half" alt="Pic" src="img/kironventureslogo4.png"></div></a>
+	            <a href="#"><div class="vnu"><img class="image-xxs fade-half" alt="Pic" src="img/dymolabventureslogo.png"></div></a>
             </div>
             <div class="col-sm-6 text-center">
-			        <p class="fade-half"> &copy Copyright 2015 Kiron Ventures - All Rights Reserved <p>
-			        <p class="fade-half" style="margin-top:-15px"> Contact us at <a href="mailto:contact@kironventures.com">contact@kironventures.com</a> <p>
+			        <p class="fade-half"> &copy Copyright 2015 Dymolab Ventures - All Rights Reserved <p>
+			        <p class="fade-half" style="margin-top:-15px"> Contact us at <a href="mailto:contact@dymolab.com">contact@dymolab.com</a> <p>
 			</div>
 
 			<!--

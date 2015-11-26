@@ -1,63 +1,52 @@
 <div class="container">
-    <h3 class="project-name" style="margin-bottom:80px">Your Path at Kiron Ventures</h3>
+    <h3 class="project-name" style="margin-bottom:80px">Program Methodology</h3>
 		<div id="timeline">
 			<div class="timeline-item">
 				<div class="timeline-content">
 					<h2>1. Get Selected</h2>
-					<p class="timeline"">Apply to Kiron Ventures, make a pitch and get selected to take part in the incubator programme</p>
-					<a class="btn-filled btn" href="/apply" target="_blank">Apply With Us</a>
+					<p class="timeline"">Apply to Dymolab Ventures, come for an intervew as an individual or as a team and get selected to take part in the programme.</p>
+					<a class="btn-filled btn" href="/entrepreneur.php" target="_blank">Apply</a>
 					</div>
 			</div>
 
 			<div class="timeline-item">
 				<div class="timeline-content right">
-				<h2>2. Benefit from Kiron Ventures</h2>
+				<h2>2. Market fit (2 Months)</h2>
 
         <div class="row">
-            <div class="text-center col-xs-12 col-sm-6 col-m-12 col-lg-6">
-              <p class="timeline">Get financial support, office space, technical support, professional advice
-	             and access to a broad network of professionals from Kiron, MigrationHub, Social Impact, 180 degrees, MakeSense StartUp Boat among others.
-	              </p>
+              <p class="timeline">
 
-             </div>
-             <div class="text-center col-xs-12 col-sm-6 col-m-12 col-lg-6">
-               <img src="img/SI.png" width="60%" height="60%">
-                <a class="btn-filled btn" href="/about" target="_blank">Learn More</a>
-             </div>
+                Entrepreneurs will have to go through a 2 months intensive program in which we will test the market for the idea together, structure the teams and constitute the project.
+            </p>
+
 				</div>
 			</div>
     </div>
 
+
+
 <div class="row">
 			<div class="timeline-item">
 				<div class="timeline-content">
-				<h2>3. Startup Boat</h2>
+				<h2>3. Implementation programme 6 months</h2>
 				<p class="timeline">
-				Get invited to the Startup boat, an event to create personal connections with the community and investors
+			Each team becomes a Startup that starts to roll out the peoject. Dymolab will help to handle the relation with the startup and provide office, mentoring, marketing and financial support.
+
 				</p>
-				<img src="img/SB.png" width="30%" height="30%">
+
 				</div>
 			</div>
     </div>
 
             <div class="timeline-item">
                 <div class="timeline-content right">
-                    <h2>4. Corporates and Investor</h2>
-                    <p class="timeline">At the end of the program if your idea proves to have a market fit, sustainability and more importantly a social impact,
-                     an investor will support you with a small capital investment and a senior startup professional will be appointed as your mentor.</p>
-					<a class="btn-filled btn" href="/context" target="_blank">Learn More</a>
+                    <h2>4. Checkpoints and fundraising </h2>
+                    <p class="timeline">During the programme we will constantly make sure that the team is on the right track and that the team members can succesfully fulfill the expectations.
+                      At the end of the programme, we will continue to support you and advise you to attract investment.</p>
+
 
                 </div>
             </div>
-
-    <div class="timeline-item">
-				<div class="timeline-content">
-					<h2>5. Fundraising</h2>
-		               <p class="timeline">Together with our partners we will continue to support you and advise you on how to apply for various financial sources.</p>
-						</div>
-			</div>
-
-
 
 		</div>
 	</div>

@@ -19,12 +19,15 @@
 <meta property="og:image"content="http://analogphotographyberlin.com/img/home22-fb.jpg" />
 <meta property="og:description"content="Dymolab ventures is a start-up re-incubator program, funding driven and innovative entrepreneurs to execute innovative ideas with validated business model.">
 
-<style> <?php include_once($docpath . "/css/themify-icons.min.css"); ?> </style>
-<style> <?php include_once($docpath . "/css/bootstrap.min.css"); ?></style>
-<style> <?php include_once($docpath . "/css/flexslider.css"); ?> </style>
 <style> <?php include_once($docpath . "/css/et-line-icons.min.css"); ?> </style>
-<style> <?php include_once($docpath . "/css/theme.min.css"); ?> </style>
+<style> <?php include_once($docpath . "/css/themify-icons.min.css"); ?> </style>
+<style> <?php include_once($docpath . "/css/bootstrap.css"); ?></style>
+<style> <?php include_once($docpath . "/css/flexslider.css"); ?> </style>
+<style> <?php include_once($docpath . "/css/lightbox.min.css.css"); ?> </style>
+<style> <?php include_once($docpath . "/css/ytplayer.css"); ?> </style>
+<style> <?php include_once($docpath . "/css/theme-orange.css") ; ?> </style>
 <link href='http://fonts.googleapis.com/css?family=Lato:300,400%7CRaleway:100,400,300,500,600,700%7COpen+Sans:400,500,600' rel='stylesheet' type='text/css'>
+
 
 <style> <?php include_once($docpath . "/css/classic-081711.css"); ?> </style>
 <style type='text/css'> #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }

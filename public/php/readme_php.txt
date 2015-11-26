@@ -1,10 +1,10 @@
 <!-- /*
-header file for ALL kiron ventures pgaes.
+header file for ALL Dymolab ventures pgaes.
 replaced the head section spit out by foundry.
 Does the same job but much more efficiently.
 You'll thank me later.
-Author: Adam Roe
-Email: adam@kiron.university
+Author: Juan David Mendieta
+Email: Juan@kiron.university
 
 Version 1.0 September 2015
 

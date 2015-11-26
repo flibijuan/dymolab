@@ -6,16 +6,21 @@
 </div>
 <div class="col-sm-12 col-md-5 col-md-pull-2 overflow-hidden-xs">
 <ul class="menu inline-block pull-right">
-<li><a href="/investors">investors</a></li>
-<li><a href="/corporate">corporate</a></li>
-<li><a href="/apply">Apply</a></li>
+<!-- <li><a href="/investors">investors</a></li> -->
+<li><a href="#">Other services</a>
+<ul>
+<li><a href="http://www.dymolab.com/es">Crowdselling&nbsp;</a></li>
+<li><a href="google.com">Startup Events&nbsp;</a></li>
+</ul>
+</li>
+<li><a href="/startups.php">Startups</a></li>
 </ul>
 </div>
 <div class="col-sm-12 col-md-5 pb-xs-24">
 <ul class="menu">
-<li><a href="/about">About</a></li>
-<li><a href="/volunteers">Volunteers</a></li>
-<li><a href="/context">Context</a></li>
+<li><a href="/entrepreneur.php">Entrepreneur</a></li>
+<li><a href="/about.php">About</a></li>
+<!-- <li><a href="/context">Context</a></li> -->
 </ul>
 </div>
 </div>

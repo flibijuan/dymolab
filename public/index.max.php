@@ -2,14 +2,14 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <title>Kiron Ventures | Home </title>
+        <title>Dymolab Ventures | Home </title>
 
 	   	<?php $docpath = $_SERVER['DOCUMENT_ROOT'];?>
         <?php include_once($docpath . "/php/head.php"); ?>
 		<style> <?php include_once($docpath . "/css/timeline.css"); ?> </style>
 
 		<?php include_once("php/googleanalytics.php") ?>
-
+    <style><?php include_once($docpath . "/css/timeline.css"); ?></style>
     </head>
     <body class="btn-rounded">
 
@@ -19,22 +19,21 @@
 		    </nav>
 		</div>
 
-		<div class="main-container">
 
-		<section class="cover fullscreen image-slider slider-all-controls controls-inside parallax">
+<div class="main-container">
+		<section class="image-slider slider-all-controls controls-inside pt0 pb0 height-70 parallax">
 		        <ul class="slides">
 		            <li class="overlay image-bg">
 		                <div class="background-image-holder">
-		                    <img alt="image" class="background-image" src="img/home22.jpg" width="1440" height="960">
+		                    <img alt="image" class="background-image" src="img/cover11.jpg">
 		                </div>
 		                <div class="container v-align-transform">
-		                    <div class="row">
-		                        <div class="col-sm-8 col-md-7">
-		                            <h1 class="mb40 mb-xs-16 large">Innovation to create social impact</h1>
-		                            <h6 class="uppercase mb16">Berlin based start-up incubator program, funding driven and innovative entrepreneurs that want to create social impact&nbsp;</h6>
-		                            <p class="lead mb40">Do you have ideas to help tackle the migration crisis?</p>
-		                            <a class="btn btn-lg" href="/apply">Pitch us your Idea</a>
-		                            <a class="btn btn-lg" href="/investors">For Investors</a>
+		                    <div class="row text-center">
+		                        <div class="col-md-offset-1 col-md-10">
+		                            <h2 class="mb-xs-16">&nbsp;An unique opportunity for driven entrepreneurs to roll out a startup with a proven business model</h2>
+		                            <p class="lead mb40">Apply for the next batch of  Dymolab Ventures program in Bogota, Colombia, starting early 2016. Apply as a team or as an individual, lead a project and roll out a startup with the help of professionals.</p>
+		                            <a class="btn btn-lg" href="#">more information</a>
+		                            <a class="btn btn-lg btn-filled" href="#">Apply to the program</a>
 		                        </div>
 		                    </div>
 
@@ -42,18 +41,15 @@
 
 		            </li><li class="overlay image-bg">
 		                <div class="background-image-holder">
-		                    <img alt="image" class="background-image" src="img/cover8.jpg" width="1280" height="853">
+		                    <img alt="image" class="background-image" src="img/home3.jpg">
 		                </div>
 		                <div class="container v-align-transform">
-		                    <div class="row">
-		                        <div class="col-sm-8 col-md-11">
-		                            <h1 class="mb40 mb-xs-16 large">60 million refugees worldwide.</h1>
-		                            <h1 class="mb40 mb-xs-16 large">Let's give them a future.</h1>
-                                    <h6 class="uppercase mb16">Ventures to support refugees </h6>
-		                            <p class="lead mb40">You bring your idea, expertise, and energy. </p>
-		                            <p class="lead mb40" style="margin-top:-40px"> We offer financial support, office space, technical support, advice and access to a broad network of professionals.</p>
-		                            <a class="btn btn-lg" href="/apply">Pitch us your Idea</a>
-		                            <a class="btn btn-lg" href="/investors">For Investors</a>
+		                    <div class="row text-center">
+		                        <div class="col-md-10 col-md-offset-1">
+		                            <h2 class="mb-xs-16">Meet Dymolab, the cleverest way<br class="hidden-sm"> to expand your startup to Latin America.</h2>
+		                            <p class="lead mb40">We look for innovative projects in the Benelux, Germany and the UK, adapt them to local Latin American markets and reincubate them with talented local entrepreneurs.</p>
+		                            <a class="btn btn-lg" href="#">More information</a>
+		                            <a class="btn btn-lg btn-filled" href="#">For EU startups</a>
 		                        </div>
 		                    </div>
 
@@ -61,75 +57,64 @@
 
 		            </li>
 		        </ul>
-		    </section><section>
-		        <div class="container">
-		            <div class="row mb64 mb-xs-24">
-		                <div class="col-sm-12 col-md-10 col-md-offset-1 text-center">
-		                    <h3>Applications are open!<br>Several new social impact projects will be launched soon</h3>
-		                </div>
-		            </div>
+		    </section>
 
-		            <div class="row">
-		                <div class="text-center col-sm-3">
-		                    <div class="feature">
-		                        <div class="text-center">
-		                            <i class="mb40 mb-xs-24 inline-block color-primary et-line-megaphone icon-lg"></i>
-		                            <h5 class="uppercase">OPEN CALL &nbsp;<br></h5>
-		                        </div>
-		                        <p>Apply now to be part of the Kiron Ventures Impact Program with a refugee focus (we are looking for seed and pre-seed stage ideas).&nbsp;<br></p>
-		                    </div>
-
-		                </div>
-		                <div class="text-center col-sm-3">
-		                    <div class="feature">
-		                        <div class="text-center">
-		                            <i class="mb40 mb-xs-24 inline-block color-primary et-line-beaker icon-lg"></i>
-		                            <h5 class="uppercase">FIRST ROUND<br>pitch day</h5>
-		                        </div>
-		                        <p>A selected group of startups will pitch to us and have personal feed back on their idea.
-		                        </p>
-		                    </div>
-
-		                </div><div class="text-center col-sm-3">
-		                    <div class="feature">
-		                        <div class="text-center">
-		                            <i class="mb40 mb-xs-24 inline-block color-primary et-line-trophy icon-lg"></i>
-		                            <h5 class="uppercase">final selection to take part in the program</h5>
-		                        </div>
-		                        <p>At the end of every month, after having assessed the projects' viability, sustainability and social impact, Kiron will announce the selected startups.
-		</p>
-		                    </div>
-
-		                </div><div class="text-center col-sm-3">
-		                    <div class="feature">
-		                        <div class="text-center">
-		                            <i class="mb40 mb-xs-24 inline-block color-primary et-line-linegraph icon-lg"></i>
-		                            <h5 class="uppercase">KICK START<br>3 MONTH PROGRAM&nbsp;</h5>
-		                        </div>
-		                        <p>The entrepreneurs will benefit from our advice, network, technologies and office spaces, provided together with our partners and mentors like Social Impact, .</p>
-		                    </div>
-
-		                </div>
-		            </div>
-
-		        </div>
-
-		    </section><section class="page-title page-title-2 image-bg overlay parallax">
-		        <div class="background-image-holder">
-		            <img alt="Background Image" class="background-image" src="img/cover15.jpg" width="1440" height="960">
-		        </div>
+        <section>
 		        <div class="container">
 		            <div class="row">
-		                <div class="col-md-8">
-		                    <h2 class="uppercase mb8">Migrationhub</h2>
-		                    <p class="lead mb0"><span>Migration hub is an open physical space for ideas and partnerships to blossom.&nbsp;<br></span>You can share ideas, learn about other entrepreneurs' solutions and maybe meet cofounders for your next impact project.<br><br><b>Address: Berlin (Potsdamer Strasse 144, 10783 Berlin).</b><br><br>The opening hours are extensive, but naturally not unlimited. Come take a look until December 2015!</p>
+		                <div class="col-sm-4">
+		                    <div class="feature feature-1 boxed">
+		                        <div class="text-center">
+		                            <i class="icon et-line-globe"></i>
+		                            <h4>We find startups with proven business models</h4>
+		                        </div>
+		                        <p>Dymolab experts search for high potential startups in Europe (focus on Germany, Benelux and the UK) that have a beta product or a market launch and have been able to make revenues and/or attract customers. We establish relationships to initiate a re-incubation process in Latin America.<br><br></p>
+		                    </div>
+
+		                </div>
+		                <div class="col-sm-4">
+		                    <div class="feature feature-1 boxed">
+		                        <div class="text-center">
+		                            <i class="icon et-line-megaphone"></i>
+		                            <h4>We create a team of &nbsp;entrepreneurs</h4>
+		                        </div>
+		                        <p>We have an open call for our program in Bogota, Colombia, to attract motivated individuals or teams of entrepreneurs that would like to become co-founders of one of the Dymolab startups and go through the 6 month program with us. &nbsp;&nbsp;<br><br><br></p>
+		                    </div>
+
+		                </div>
+		                <div class="col-sm-4">
+		                    <div class="feature feature-1 boxed">
+		                        <div class="text-center">
+		                            <i class="icon et-line-beaker"></i>
+		                            <h4>Reincubation of startups in Latin America</h4>
+		                        </div>
+		                        <p>In cooperation with the European startups, we replicate their concepts in Latin America. We create synergies by making use of the same corporate identity, intellectual property and digital infrastructure. The project would go through an initial 2 month program to find a market fit and an additional 6 month program for the actual incubation of the project.</p>
+		                    </div>
+
 		                </div>
 
 		            </div>
 
 		        </div>
 
-		    </section><section>
+		    </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 		        <div class="container">
 		            <div class="row">
 		               	<?php include_once("php/timeline.php"); ?>
@@ -137,45 +122,17 @@
 
 		        </div>
 
-		    </section><section class="image-bg bg-dark parallax overlay pt120 pb120">
-		        <div class="background-image-holder">
-		            <img alt="Background Image" class="background-image" src="img/boat.jpg" width="1280" height="800">
-		        </div>
-		        <div class="container">
-		            <div class="row">
-		                <div class="col-sm-8 text-center col-sm-offset-2">
-		                    <h2 class="uppercase mb8">The startup boat</h2>
-		                    <p class="lead mb40">Selected entrepreneurs will have the opportunity to participate in the startup boat. </p>
-		                    <p class="lead mb40" style="margin-top:-30px">This is an event designed for the integration of corporates, investors and start-ups to help to tackle social problems through the design thinking methodology.</p>
-		                    <a class="btn btn-lg btn-white mb0" href="http://startupboat.eu/" target="_blank">learn more</a>
-		                </div>
-		            </div>
-
-		        </div>
-
-		    </section><section class="bg-secondary">
-		        <div class="container">
-
-
-		            <div class="row">
-		                <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
-		                    <h2>Our partners</h2>
-		                    <p class="mb40">Together with our partners we want to give the environment and network to create impact</p>
-
-		                </div>
-		             </div>
-
-		      		<?php include_once($docpath . "/php/partnerlogos.php"); ?>
-
-
-		    </section><section class="bg-dark pt64 pb64">
+		  <section class="bg-dark pt64 pb64">
 		        <div class="container">
 		            <div class="row">
 		                <div class="col-sm-12 text-center">
 		                    <h2 class="mb8">Where to find us</h2>
-		                    <p class="lead mb40 mb-xs-24">If you want to get in contact with us, get to know about our investment system<br>
-		                    or have questions about the application process send us an email at
-		                    at <a href="mailto:contact@kironventures.com">contact@kironventures.com</a></p>
+		                    <p class="lead mb40 mb-xs-24">If you want to get in contact with us, get to know about our investment system send us an email at
+		                    at <a href="mailto:investors@dymolab.com">investors@dymolab.com</a></p>
+                        <p class="lead mb40 mb-xs-24">If you want get to know about our aplications for enrepreneurs in Bogota, Colombia send us an email at
+		                    at <a href="mailto:apply@dymolab.com">apply@dymolab.com</a></p>
+                        <p class="lead mb40 mb-xs-24">If you want to get in contact with us, get to know about our investment system send us an email at
+		                    at <a href="mailto:investors@dymolab.com">investors@dymolab.com</a></p>
 		                </div>
 		            </div>
 
@@ -196,8 +153,13 @@
         			"/js/bootstrap.min.js",
         			"/js/flexslider.min.js",
         			"/js/parallax.js",
+              "js/lightbox.min.js",
+              "js/spectragram.min.js",
         			"/js/scripts.min.js"	);
         </script>
+
+
+
 
 
     </body>
